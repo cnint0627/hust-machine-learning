@@ -1,0 +1,11 @@
+**文件夹结构：**
+|文件名|描述|
+|:-------:|:-------:|
+|U202215566_刘师言_机器学习结课报告.pdf|机器学习结课报告
+|obesity-risk.ipynb|完整源代码|
+|train.csv|任务测试用数据集|
+|test.csv|任务训练用数据集|
+|LogisticRegression.csv|逻辑回归模型预测结果集|
+|NeuralNetwork.csv|神经网络模型预测结果集|
+|DecisionTree.csv|决策树模型预测结果集|
+|README.md|项目说明文件|
